@@ -1,0 +1,8 @@
+host-suffix,openai.com,OpenAi
+host-suffix,ai.com,OpenAi
+host-suffix,chat.openai.com.cdn.cloudflare.net,OpenAi
+host-suffix,compute-pipe.com,OpenAi
+host-suffix,edgecompute.app,OpenAi
+host-suffix,every1dns.net,OpenAi
+host-suffix,sentry.io,OpenAi
+host-suffix,openaiapi-site.azureedge.net,OpenAi
