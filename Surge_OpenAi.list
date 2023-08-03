@@ -1,8 +1,8 @@
-domain-suffix,openai.com
-domain-suffix,ai.com
-domain-suffix,chat.openai.com.cdn.cloudflare.net
-domain-suffix,compute-pipe.com
-domain-suffix,edgecompute.app
-domain-suffix,every1dns.net
-domain-suffix,sentry.io
-domain-suffix,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,compute-pipe.com
+DOMAIN-SUFFIX,edgecompute.app
+DOMAIN-SUFFIX,every1dns.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
