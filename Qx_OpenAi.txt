@@ -6,3 +6,5 @@ host-suffix,edgecompute.app,OpenAi
 host-suffix,every1dns.net,OpenAi
 host-suffix,sentry.io,OpenAi
 host-suffix,openaiapi-site.azureedge.net,OpenAi
+host-suffix,oaistatic.com,
+host-suffix,*.oaiusercontent.com,OpenAi
